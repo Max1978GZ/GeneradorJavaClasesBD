@@ -1,0 +1,8 @@
+# Configuracion MySQL
+Ip=//localhost:3306
+Usuario= root
+Pass=636358089
+ClassName=com.mysql.jdbc.Driver
+Conexion =jdbc:mysql:
+BD=/JUEZ
+Cadena=jdbc:mysql://localhost:3306/JUEZ

@@ -1,0 +1,8 @@
+# Configuracion Derby
+Ip=//localhost:1527
+Usuario=juez
+Pass=zeuj
+ClassName=org.apache.derby.jdbc.ClientDriver
+Conexion =jdbc:derby:
+BD=/PROCEDIMIENTOS
+Cadena=jdbc:derby://localhost:1527/PROCEDIMIENTOS
